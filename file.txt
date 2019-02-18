@@ -1,0 +1,15 @@
+
+
+void Main {
+     myint a_ ;
+     myint b_ ;
+     myint product_ ;
+     Moutput ( " Enter the number a " ) ;
+     Minput ( a_ ) ;
+     
+     Moutput ( " Enter the number b " ) ;
+     Minput ( b_ ) ;
+
+     product_ = a_ + b_ ; 
+     output ( product_ ) ;
+ }
